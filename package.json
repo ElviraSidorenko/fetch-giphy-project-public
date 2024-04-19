@@ -1,0 +1,13 @@
+{
+  "name": "fetch-giphy",
+  "version": "1.0.0",
+  "description": "Generate a random Giphy image",
+    "scripts": {
+      "start": "http-server Submission -o -c-1"
+  },
+  "author": "Elvira Sidorenko",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
